@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smart car control</string>
+    <string name="title_activity_reconocimiento">Reconocimiento</string>
+</resources>
